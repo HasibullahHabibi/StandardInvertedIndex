@@ -1,0 +1,9 @@
+Machine learning (ML) is a branch of artificial intelligence focused on
+building systems that learn from data. Supervised learning models use
+labeled datasets to make predictions, while unsupervised models discover
+hidden patterns within raw data. Reinforcement learning allows agents to
+learn optimal actions through rewards and penalties. ML algorithms are
+widely used in fraud detection, recommendation systems, natural language
+processing, and image recognition. As technology evolves, ML has become
+a foundational component of intelligent systems across multiple
+industries.
